@@ -1,0 +1,10 @@
+.image {
+  margin: 20px;
+  opacity: 0;
+  height: 155px;
+}
+
+#infographic {
+  text-align: center;
+  background-color: #fff;
+}
