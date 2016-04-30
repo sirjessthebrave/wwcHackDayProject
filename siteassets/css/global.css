@@ -165,6 +165,16 @@ input[type=text]:focus {
 	width: 100%;
 	background-color: #ccc;
 }
+.info-image {
+  margin: 20px;
+  opacity: 0;
+  height: 155px;
+}
+
+#infographic {
+  text-align: center;
+  background-color: #fff;
+}
 .footer {
 	height: 400px;
 	width: 100%;
