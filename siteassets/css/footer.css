@@ -1,0 +1,17 @@
+.footer-menu {
+  text-align: center;
+}
+.footer-menu ul {
+  padding: 0;
+}
+.fa {
+  padding: 20px;
+}
+.footer-menu button {
+  border: 3px solid #2edd86;
+  padding: 15px;
+  background-color: #333;
+  font-size: 16px;
+  color: #fff;
+  margin: 0 20px;
+}
