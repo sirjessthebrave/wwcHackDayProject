@@ -176,7 +176,7 @@ input[type=text]:focus {
   font-family: 'Montserrat', sans-serif;
 }
 .Infographic {
-	height: 400px;
+	height: 100%;
 	width: 100%;
 	background-color: #fff;
 }
@@ -191,9 +191,27 @@ input[type=text]:focus {
   background-color: #fff;
 }
 .footer {
-	height: 400px;
-	width: 100%;
-	background-color: #333;
+  background: RGBA(52, 63, 109, 1);
+  font-family: 'Montserrat', sans-serif;
+  padding: 2em 0;
+}
+.footer-menu {
+  text-align: center;
+}
+.footer-menu ul {
+  padding: 0;
+}
+.fa {
+  padding: 20px;
+}
+.footer-menu button {
+  border: 3px solid #2edd86;
+  padding: 15px;
+  background-color: #333;
+  font-size: 16px;
+  color: #fff;
+  margin: 0 20px;
+  font-family: 'Montserrat', sans-serif;
 }
 @-webkit-keyframes bounce {
   0%, 20%, 50%, 80%, 100% {
